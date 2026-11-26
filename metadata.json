@@ -1,0 +1,6 @@
+{
+  "name": "Konversi Bilangan",
+  "description": "Aplikasi edukasi interaktif untuk siswa SMP mengubah pecahan, desimal, dan persen beserta langkah perhitungannya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
